@@ -25,18 +25,18 @@ To make my code more efficient I needed to change the way code was nested within
 ## Run Time Videos for Original Code
 
 ### 2017
-![](resources/original_2017.mov)
+![](resources/original_2017.gif)
 
 ### 2018
-[]
+![](resources/original_2018.gif)
 
 ## Run Time Videos for Refactored Code
 
 ### 2017
-[]
+![](resources/VBA_Challenge_2017.gif)
 
 ### 2018
-[]
+![](resources/VBA_Challenge_2018.gif)
 
 According to the results the refactored run times are faster and therefore more efficient.
 
