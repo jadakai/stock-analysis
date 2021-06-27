@@ -16,7 +16,7 @@ To make my code more efficient I needed to change the way code was nested within
 
 ### Original Code
 
-[]
+![](resources/VBA_Original_Code.r)
 
 ### Refactored Code
 
@@ -25,7 +25,7 @@ To make my code more efficient I needed to change the way code was nested within
 ## Run Time Videos for Original Code
 
 ### 2017
-[]
+![](resources/original_2017.mov)
 
 ### 2018
 []
