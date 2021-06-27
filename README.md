@@ -10,5 +10,35 @@ The purpose of this project was to find and use an efficent way of reviewing dat
 
 ## Results
 
+## Refactoring the Code
+
+To make my code more efficient I needed to change the way code was nested within my loops by creating arrays.  Four arrays were created to achieve this; tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.  The tickers array was used to establish the ticker symbol of the stock and the variable called tickerIndex was used with the other three arrays. The variable TickerIndex was assigned to tickerVolumes, tickerStartingPrices, and tickerEndingPrices for each ticker symbol before running throught the set of data. This allows the data to be compiled faster than using the nested loop in the original code.
+
 ### Original Code
+
+[]
+
+### Refactored Code
+
+[]
+
+## Run Time Videos for Original Code
+
+### 2017
+[]
+
+### 2018
+[]
+
+## Run Time Videos for Refactored Code
+
+### 2017
+[]
+
+### 2018
+[]
+
+According to the results the refactored run times are faster and therefore more efficient.
+
+
 
